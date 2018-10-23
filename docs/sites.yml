@@ -17,6 +17,16 @@
     - Fashion
     - Featured
   featured: true
+- title: Flamingo
+  main_url: https://www.shopflamingo.com/
+  url: https://www.shopflamingo.com/
+  description: >
+    Online shop for women's body care and hair removal products.
+  categories:
+    - eCommerce
+    - Beauty
+    - Featured
+  featured: true
 - title: Airbnb Engineering & Data Science
   description: >
     Creative engineers and data scientists building a world where you can belong
@@ -78,16 +88,6 @@
     - Technology
     - App
     - Featured
-- title: Cajun Bowfishing
-  main_url: "https://cajunbowfishing.com/"
-  url: "https://cajunbowfishing.com/"
-  featured: true
-  categories:
-    - eCommerce
-    - Sports
-    - Featured
-  built_by: Escalade Sports
-  built_by_url: "https://www.escaladesports.com/"
 - title: GM Capital One
   description: |
     Introducing the new online experience for your GM Rewards Credit Card
@@ -213,6 +213,15 @@
     - Featured
   built_by: Ryan Wiemer
   built_by_url: "https://www.ryanwiemer.com/"
+- title: Cajun Bowfishing
+  main_url: "https://cajunbowfishing.com/"
+  url: "https://cajunbowfishing.com/"
+  featured: false
+  categories:
+    - eCommerce
+    - Sports
+  built_by: Escalade Sports
+  built_by_url: "https://www.escaladesports.com/"
 - title: NEON
   main_url: "http://neonrated.com/"
   url: "http://neonrated.com/"
@@ -2977,3 +2986,32 @@
     - Education
   built_by: Dante Calderón
   built_by_url: https://github.com/dantehemerson
+- title: "The Noted Project"
+  url: https://thenotedproject.org
+  main_url: https://thenotedproject.org
+  source_url: https://github.com/ianbusko/the-noted-project
+  description: >
+    Website to showcase the ethnomusicology research for The Noted Project.
+  categories:
+    - Portfolio
+    - Education
+    - Gallery
+  built_by: Ian Busko
+  built_by_url: https://github.com/ianbusko
+  featured: false
+- title: "LANDR"
+  url: https://www.landr.com/
+  main_url: https://www.landr.com/
+  description: >
+    LANDR is the place to create, master and sell your music.
+  categories:
+    - AI
+    - Business
+    - Entrepreneurship
+    - Freelance
+    - Marketing
+    - Media
+    - Music
+  built_by: LANDR
+  built_by_url: https://twitter.com/landr_music
+  featured: false
